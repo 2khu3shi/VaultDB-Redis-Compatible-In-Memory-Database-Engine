@@ -1,4 +1,4 @@
-# VaultDB
+# VaultDB– Redis-Compatible In-Memory Database Engine
 
 VaultDB is a Redis-compatible in-memory database engine written in Java 21. It accepts TCP connections, speaks RESP, stores multiple data types in memory, supports TTL expiration, and can persist commands to an AOF log for replay after restart.
 
